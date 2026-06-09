@@ -1,6 +1,6 @@
 # DocuMind - Retrival - Augmented Document Intelligence System
 
-> Ask questions across any set of PDFs — grounded answers powered by Retrieval-Augmented Generation, Google Gemini 2.5 Flash, and FAISS vector search.
+> Ask questions across any set of PDFs - grounded answers powered by Retrieval-Augmented Generation, Google Gemini 2.5 Flash, and FAISS vector search.
 
 ---
 
@@ -104,6 +104,6 @@ rag-document-intellegence/
 └── README.md
 ```
 
----
+
 
 
